@@ -1,0 +1,11 @@
+*{
+  font-family: sans-serif;
+  background-color: #EAF2EA;
+}
+#container-1{
+  height: 400px;
+  width: 500px;
+  border: 2px solid black;
+ border-radius: 10px;
+ padding-left: 30px;
+}
